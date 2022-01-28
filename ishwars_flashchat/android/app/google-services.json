@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639989078694",
+    "project_id": "flash-char-new",
+    "storage_bucket": "flash-char-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639989078694:android:a8424b456b35db2b1d3267",
+        "android_client_info": {
+          "package_name": "com.example.ishwars_flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639989078694-rv7pk83tb90jqo8se6e9qng45ojap54p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad5PV0CRIDUkML01pEDDtINSGEbxbkIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639989078694-rv7pk83tb90jqo8se6e9qng45ojap54p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
